@@ -13,9 +13,7 @@ O projeto foi criado com a
 ## Layout mobile
 <p align="center">
    <img width="200" src="KOTLIN1.jpg">  
-     <br>
    <img width="200" src="KOTLIN2.jpg"> 
-     <br>
    <img width="200" src="KOTLIN3.jpg"> 
      <br>
    <img width="400" src="KOTLIN4.jpg"><br> 
