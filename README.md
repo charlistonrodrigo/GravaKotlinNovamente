@@ -4,11 +4,12 @@
 
 ## Sobre
 
-O projeto é uma aplicação de  
+Este aplicativo foi desenvolvido com o objetivo de aprender sobre os fundamentos de armazenamento de arquivos internos
+e externos no android, usando como base no desenvolvimento a linguagem de programação KOTLIN.
 
 ## Informações adicionais
 
-O projeto foi criado com a         
+O projeto foi criado com a finalidade de aprender sobre conceitos e técnicas desta incrível linguagem de programação.      
 
 ## Layout mobile
 <p align="center">
@@ -20,3 +21,6 @@ O projeto foi criado com a
 </P>         
 
 ## Como execultar o projeto
+
+Baixe o projeto no computador e utilize um emulador do próprio android studio ou utilize um cabo usb e crie um apk em um dispositivo móvel.
+Certifique de ter a permissão de desenvolvedor em seu celular.
